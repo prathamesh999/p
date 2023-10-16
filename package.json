@@ -1,0 +1,14 @@
+{
+  "name": "p",
+  "version": "2.0.0",
+  "description": "makeing os ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamesh999/p.git"
+  },
+  "author": "prathamesh",
+  "license": "MIT"
+}
